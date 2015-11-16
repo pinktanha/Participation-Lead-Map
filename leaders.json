@@ -111,7 +111,15 @@
                         "country": "Kenya",
                         "lat": -1.3048035,
                         "lng": 36.8473969
-                }
+                }, 
+                {
+                        "name": "Tanha Islam", 
+                        "url": "https://mozillians.org/en-US/u/pink.devil.tanha/",
+                        "gravatar": "pink.devil.tanha@hotmail.com",
+                        "country": "Bangladesh",
+                        "lat": 23.7494231,
+                        "lng": 90.3830754
+}
                 
 	]
 }
